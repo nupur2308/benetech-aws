@@ -1,0 +1,15 @@
+transformers
+torch
+Pillow
+datasets
+nltk
+ipywidgets
+ipykernel
+polyleven
+albumentations
+torchvision
+opencv-python-headless
+matplotlib
+rapidfuzz
+accelerate==0.20.3
+wandb
